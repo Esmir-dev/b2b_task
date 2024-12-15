@@ -7,13 +7,14 @@ Ova aplikacija koristi React i TypeScript za razvoj modernih korisničkih interf
 ## Instalacija
 
 Klonirajte repozitorijum:
-git clone https://github.com/Esmir-dev/b2b_task
-cd b2b_task
+git clone https://github.com/
+cd front-task
 npm install
 npm start
 
 ### Tehnologije
 
+Tehnologije
 React
 TypeScript
 Tailwind CSS
