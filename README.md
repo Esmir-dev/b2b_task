@@ -1,6 +1,6 @@
-## b2b_task
+# b2b_task
 
-# React Aplikacija sa TypeScript-om
+## React Aplikacija sa TypeScript-om
 
 Ova aplikacija koristi React i TypeScript za razvoj aplikacije, u kojoj je predstavljena tabela sa različitim proizvodima te njenim karakteristikama.
 Tabela se može preeraživati na osnovu svih njenih atributa, u desnom sidebaru.
